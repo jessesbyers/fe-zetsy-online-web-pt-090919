@@ -4,12 +4,13 @@
 	src: url("./fonts/Baskerville.ttc");
 }
 
-h1 {
+/*h1 {
 	font-family: 'Baskerville';
 	font-weight:normal;
 	font-style:normal;
 	font-size: 50px
-}
+}*/
+
 h1 {
 	font: 1.2em "Baskerville", sans-serif;
 
