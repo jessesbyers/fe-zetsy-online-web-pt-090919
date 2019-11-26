@@ -1,13 +1,14 @@
 /*////////////// Fonts //////////////*/
 @font-face {
-font-family: "Baskerville";
-src: url("./fonts/Baskerville.ttc");
+	font-family: "Baskerville";
+	src: url("./fonts/Baskerville.ttc");
 }
 
 h1 {
 	font-family: 'Baskerville', Arial, sans-serif;
 	font-weight:normal;
 	font-style:normal;
+	font-size: 50px
 }
 
 /* link the web font used for the level 1 heading here */
