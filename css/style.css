@@ -34,4 +34,10 @@ img {
 	border: 5px rgb(152,173,166) solid;
 }
 
+p{
+	color: #555;
+  font-size: 1em;
+  margin: 0 0 20px 0;
+}
+
 /* Write all remaining styles here */
