@@ -9,9 +9,8 @@ h1 {
   font-weight: 900;
   font-family: 'Baskerville', serif, bold;
 	color: rgb(152,173,166);
+	display: block;
 }
-
-/* link the web font used for the level 1 heading here */
 
 /*////////// Global Styles //////////*/
 
