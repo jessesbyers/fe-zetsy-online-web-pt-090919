@@ -1,8 +1,8 @@
 /*////////////// Fonts //////////////*/
-/*@font-face {
+@font-face {
 	font-family: "Baskerville";
 	src: url("./fonts/Baskerville.ttc");
-}*/
+}
 
 /*h1 {
 	font-family: 'Baskerville';
@@ -16,12 +16,12 @@
 
 }*/
 
-@font-face {
+/*@font-face {
   font-family: fontstack;
   font-style: normal;
   font-weight: 300;
   src: local("./images/Baskerville.ttc");
-}
+}*/
 
 h1 {
   font-family: fontstack, sans-serif;
