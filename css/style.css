@@ -46,4 +46,8 @@ h2 {
   font-size: 2em;
 }
 
+p.footer {
+	font-size: 0.8em;
+}
+
 /* Write all remaining styles here */
